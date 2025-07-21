@@ -1,5 +1,3 @@
-# AI-Caller
-AI Caller, Voice AI Agents, AI Call Center - neyox.ai
 <a href="https://neyox.ai" target="_blank">AI Caller</a>
 <a href="https://neyox.ai" target="_blank">Voice AI Agents</a>
 <a href="https://neyox.ai" target="_blank">AI Call Center</a>
